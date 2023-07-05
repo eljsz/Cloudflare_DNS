@@ -1,9 +1,9 @@
 {
-  "auth_email": "378715546@qq.com",
-  "auth_key": "a2d1ca905e8075bb375c9026a04587f5036eb",
-  "zone_name": "8826999.xyz",
+  "auth_email": "",
+  "auth_key": "",
+  "zone_name": "",
   "record_name": "cf",
-  "set_url_config": 2,
+  "set_url_config": 1,
   "record_count": 3,
   "record_type": "A"
 }
